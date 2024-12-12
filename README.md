@@ -1,4 +1,8 @@
-# IT211-FINAL-PROJECT
+# CICS Room Reservation (IT211-FINAL-PROJECT)
+	➡️SHAIAME D. GRANADOS
+	➡️IT-2106
+	➡️IT211: OBJECT-ORIENTED PROGRAMMING
+
 ## **I. PROJECT OVERVIEW**
 	The CICS Room Reservation aims to provide a streamlined and efficient platform for reserving rooms in various settings such as classrooms and laboratories. The application will facilitate the reservation process, ensuring that users can easily view available rooms, make and manage their reservations. 
  	
